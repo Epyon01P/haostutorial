@@ -14,7 +14,7 @@ However, for the vast majority of people, I no longer recommend that route. **Ho
 
 So this is the spiritual successor to that first tutorial. It assumes you already have a working Home Assistant OS install that you can reach on your local network, and it picks up from there. We will make your Home Assistant securely reachable from anywhere on the internet, **without paying for a subscription and without relying on any third-party tunnel**, using only free apps that run on your own hardware. Along the way we'll also install a handful of apps I think every Home Assistant deserves.
 
-And, as in the previous tutorial, I'll take the time to explain *how* the technologies we use actually work. The goal isn't not only to get you remote access; it's also for you to understand what a reverse proxy is, what a TLS certificate proves, and why MQTT is so popular, so you can troubleshoot and build on this yourself.
+And, as in the previous tutorial, I'll take the time to explain *how* the technologies we use actually work. The goal is not only to get you remote access; it's also for you to understand what a reverse proxy is, what a TLS certificate proves, and why MQTT is so popular, so you can troubleshoot and build on this yourself.
 
 This guide was written against Home Assistant **2026.6.2**. 
 
